@@ -61,7 +61,8 @@ Y= A⊕B
 
 5.	For different input combinations generate the timing diagram.
 
-
+Developed by:Kishorekumar S
+Register No:24900228
 **PROGRAM**
 ```
 module exp1(a,b,f1,f2,f3,f4,f5,f6,f7);
